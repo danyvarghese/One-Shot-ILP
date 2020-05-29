@@ -13,7 +13,9 @@ developed for one-shot learning.
 
 ## Folder Structure
 
-[Deep_Learning_Siamese_Net](https://github.com/danyvarghese/One-Shot-ILP/tree/master/Deep_Learning_Siamese_Net) - The web framework used
+[ILP](https://github.com/danyvarghese/One-Shot-ILP/tree/master/ILP) - This folder contains the program codes and instrcutiosn to execute OSHD using ILP.
+
+[Deep_Learning_Siamese_Net](https://github.com/danyvarghese/One-Shot-ILP/tree/master/Deep_Learning_Siamese_Net) - This folder contains the program codes and instrcutiosn to execute Deep Learning Siamese Network.
 
 ## Reference
 
