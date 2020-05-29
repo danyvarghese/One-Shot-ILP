@@ -1,9 +1,15 @@
 # One Shot Hypothesis Derivation(OSHD)
 
-It is a novel approach for one-shot rule learning  based on using a logic program
+It is a novel approach for one-shot rule learning  using a logic program
 declarative bias which is a special case of Top-Directed
 Hypothesis Derivation (TDHD)[1]
 
+## Objective
+
+We apply OSHD to the challenging task of Malayalam character recognition. This is a challenging task due to spherical
+and complex structure of Malayalam hand-written language. We compare our results with a state-of-the-
+art Deep Learning approach, called Siamese Network, which has been
+developed for one-shot learning.
 
 ## Reference
 
