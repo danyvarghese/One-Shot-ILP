@@ -11,6 +11,10 @@ and complex structure of Malayalam hand-written language. We compare our results
 art Deep Learning approach, called Siamese Network, which has been
 developed for one-shot learning.
 
+## Folder Structure
+
+[Deep_Learning_Siamese_Net](https://github.com/danyvarghese/One-Shot-ILP/tree/master/Deep_Learning_Siamese_Net) - The web framework used
+
 ## Reference
 
 * [1] Muggleton, S.H., Santos, J., Tamaddoni-Nezhad, A.: TopLog: ILP using a logic
