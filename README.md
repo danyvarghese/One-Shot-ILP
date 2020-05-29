@@ -13,9 +13,9 @@ developed for one-shot learning.
 
 ## Folder Structure
 
-[ILP](https://github.com/danyvarghese/One-Shot-ILP/tree/master/ILP) - This folder contains the program codes and instrcutiosn to execute OSHD using ILP.
+[ILP](https://github.com/danyvarghese/One-Shot-ILP/tree/master/ILP) - This folder contains the program codes and instructions to execute OSHD using ILP.
 
-[Deep_Learning_Siamese_Net](https://github.com/danyvarghese/One-Shot-ILP/tree/master/Deep_Learning_Siamese_Net) - This folder contains the program codes and instrcutiosn to execute Deep Learning Siamese Network.
+[Deep_Learning_Siamese_Net](https://github.com/danyvarghese/One-Shot-ILP/tree/master/Deep_Learning_Siamese_Net) - This folder contains the program codes and instructions to execute Deep Learning Siamese Network.
 
 ## Reference
 
