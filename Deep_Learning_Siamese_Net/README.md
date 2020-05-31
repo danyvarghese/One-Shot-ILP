@@ -18,7 +18,7 @@ Feature extraction is done by using a set of advanced geometrical features and d
 
 We have used _Jupyter Notebook_ for the implementation of one-shot character recognition. We have followed  the same concept  used in [keras-oneshot](https://github.com/sorenbouma/keras-oneshot) which is re-implementation of [1] using keras package.
 
-You can download the _images_background_ & _images_evaluation_ zip files from the python dataset from [Omniglot](https://github.com/brendenlake/omniglot). Extract it and place in the root folder _Deep_Learning_Siamese_Net.  Execute the _One_Shot_Siamese.ipynb_ using jupyter notebook.
+You have to  download _Malayalam.zip_ files from the  datasets. Extract  and place it in the root folder _Deep_Learning_Siamese_Net.  Execute the _One_Shot_Siamese.ipynb_ using jupyter notebook.
 
 
 ## Reference
