@@ -11,22 +11,11 @@ languages, there is currently no efficient algorithm for Malayalam handwritten
 recognition. The spherical feature of Malayalam characters are the main reason
 for this problem.
 
-We selected the hand-written characters provided by [Omniglot](https://github.com/brendenlake/omniglot) [1,2] dataset.
-Feature extraction is done by using a set of advanced geometrical features and directional features.
-
-The Dataset folder contains 3 files
-
-1. _Character_Malayalm_Dataset.csv_ : Holds the feature values which is extracted from the 'Omniglot' dataset fro Malayalam Characters.
-
-2. _feature.py_ : This script will generate the prolog file(_OSHD.pl_) for the OSHD experiment which contains **Background Knowledge, Positive & Negative examples, Setup details for OSHD**
-
-3. _OSHD.pl_ : prolog file.  By Default, all the examples added as negative examples with weight **-3**. Please change one of them as positive by adding a weight of **+11** instead of **-3**
-
 ## How to run
 
 You will need  [YAP Prolog](https://github.com/vscosta/yap-6.3) and [GILPS](https://github.com/JoseCSantos/GILPS). 
 
-Place the ILP  folder in the GILPS root folder. Then, in the command line, execute the _run.pl_ as follows;
+Download  and place the _ILP & datasets_  folders in the GILPS root folder. Then, in the command line, execute the _run.pl_ as follows;
 
 yap -l run.pl
 
