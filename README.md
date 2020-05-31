@@ -37,12 +37,12 @@ Feature extraction is done by using a set of advanced geometrical features and d
 
 4. _Malayalam_Alphabets_ : This files contains the Malayalam alphabets from [Omniglot] dataset. Sample Malayalam character is displayed below.
 
-<figure>
+
   <p align="center">
   <img width="100" height="100" src="https://github.com/danyvarghese/One-Shot-ILP/blob/master/datasets/1280_01.png">
-  <figcaption>Fig.1 Malayalam Alphabet 'Ah'</figcaption>
+Malayalam Alphabet 'Aha'
     </p>
-</figure>
+
 
 
 ## Reference
