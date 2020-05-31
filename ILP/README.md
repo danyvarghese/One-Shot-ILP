@@ -15,7 +15,13 @@ for this problem.
 
 You will need  [YAP Prolog](https://github.com/vscosta/yap-6.3) and [GILPS](https://github.com/JoseCSantos/GILPS). 
 
-Download  and place the _ILP & datasets_  folders in the GILPS root folder. Then, in the command line, execute the _run.pl_ as follows;
+Download  and place the _ILP & datasets_  folders in the GILPS root folder. 
+
+Execute _feature.py_ for generating the prolog script for OSHD.
+
+In _oshd.pl_, By Default, all the examples added as negative examples with weight **-3**. Please change one of them as positive by adding a weight of **+11** instead of **-3**. 
+
+Then, in the command line, execute the _run.pl_ as follows;
 
 yap -l run.pl
 
