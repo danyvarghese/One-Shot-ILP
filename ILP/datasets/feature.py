@@ -76,48 +76,14 @@ for i in range(0,char):
 
 for i in range(0,char):
 	title='character_'+str(i)
-	property1='example(alphabet('+title+'),-'+str(1)+').'
+	property1='example(alphabet('+title+'),-'+str(3)+').'
 	rule.append(property1)
 
-'''
-
-
-rule.append('\n')
-
-
-for i in range(0,char):
-	title='character_'+str(i)
-	property1='has_gemproperties('+title+',junctions,'+str(df.loc[i,'J'])+').'
-	rule.append(property1)
-for i in range(0,char):
-	title='character_'+str(i)
-	property1='has_gemproperties('+title+',arcs,'+str(df.loc[i,'A'])+').'
-	rule.append(property1)
-for i in range(0,char):
-	title='character_'+str(i)
-	property1='has_gemproperties('+title+',terminals,'+str(df.loc[i,'T'])+').'
-	rule.append(property1)
-for i in range(0,char):
-	title='character_'+str(i)
-	property1='has_dirproperties('+title+',starts,'+str(df.loc[i,'S'])+').'
-	rule.append(property1)
-for i in range(0,char):
-	title='character_'+str(i)
-	property1='has_dirproperties('+title+',ends,'+str(df.loc[i,'E'])+').'
-	rule.append(property1)
-
-for i in range(0,char):
-	title='character_'+str(i)
-	property1='example(alphabet('+title+'),'+str(1)+').'
-	rule.append(property1)
-
-
-'''
 
 
 size=len(rule)
-open('ilp.pl', 'w').close()
-file = open("ilp.pl","a") 
+open('oshd.pl', 'w').close()
+file = open("oshd.pl","a") 
 for i in range(0,size):
 	#print(rule[i])
 	file.write(rule[i])

@@ -1,4 +1,4 @@
-# One Shot Hypothesis Derivation(OSHD)
+# One-Shot Hypothesis Derivation(OSHD)
 
 It is a novel approach for one-shot rule learning  using a logic program
 declarative bias which is a special case of Top-Directed
