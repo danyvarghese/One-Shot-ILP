@@ -33,7 +33,7 @@ Feature extraction is done by using a set of advanced geometrical features and d
 
 2. _feature.py_ : This script will generate the prolog file(_OSHD.pl_) for the OSHD experiment which contains **Background Knowledge, Positive & Negative examples, Setup details for OSHD**
 
-3. _OSHD.pl_ : prolog file.  By Default, all the examples added as negative examples with weight **-3**. Please change one of them as positive by adding a weight of **+11** instead of **-3**
+3. _OSHD.pl_ : prolog file.  By Default, all the examples added as negative examples with weight **-3**. 
 
 4. _Malayalam_Alphabets_(Zip File) : This files contains the Malayalam alphabets from 'Omniglot' dataset. Sample Malayalam character is displayed below.
 
