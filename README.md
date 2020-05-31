@@ -27,7 +27,7 @@ Feature extraction is done by using a set of advanced geometrical features and d
 
 [Deep_Learning_Siamese_Net](https://github.com/danyvarghese/One-Shot-ILP/tree/master/Deep_Learning_Siamese_Net) - This folder contains the program codes and instructions to execute Deep Learning Siamese Network.
 
-[datasets](https://github.com/danyvarghese/One-Shot-ILP/tree/master/datasets) - The Dataset folder contains  a directory & 3 text files
+[datasets](https://github.com/danyvarghese/One-Shot-ILP/tree/master/datasets) - The Dataset folder contains; 
 
 1. _Character_Malayalm_Dataset.csv_ : Holds the feature values which is extracted from the 'Omniglot' dataset fro Malayalam Characters.
 
@@ -35,7 +35,7 @@ Feature extraction is done by using a set of advanced geometrical features and d
 
 3. _OSHD.pl_ : prolog file.  By Default, all the examples added as negative examples with weight **-3**. Please change one of them as positive by adding a weight of **+11** instead of **-3**
 
-4. _Malayalam_Alphabets_ : This files contains the Malayalam alphabets from [Omniglot] dataset. Sample Malayalam character is displayed below.
+4. _Malayalam_Alphabets_(Zip File) : This files contains the Malayalam alphabets from [Omniglot] dataset. Sample Malayalam character is displayed below.
 
 
   <p align="center">
