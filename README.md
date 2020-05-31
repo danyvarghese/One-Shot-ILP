@@ -39,7 +39,7 @@ Feature extraction is done by using a set of advanced geometrical features and d
 
 
   <p align="center">
-  <img width="100" height="100" src="https://github.com/danyvarghese/One-Shot-ILP/blob/master/datasets/1280_01.png">
+  <img width="100" height="100" src="https://github.com/danyvarghese/One-Shot-ILP/blob/master/datasets/1280_01.png"></br>
 Malayalam Alphabet 'Aha'
     </p>
 
