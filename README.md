@@ -36,10 +36,12 @@ Feature extraction is done by using a set of advanced geometrical features and d
 3. _OSHD.pl_ : prolog file.  By Default, all the examples added as negative examples with weight **-3**. Please change one of them as positive by adding a weight of **+11** instead of **-3**
 
 4. _Malayalam_Alphabets_ : This files contains the Malayalam alphabets from [Omniglot] dataset. Sample Malayalam character is displayed below.
-
-![Malayalam Character 'Ah' ](https://github.com/danyvarghese/One-Shot-ILP/blob/master/datasets/1280_01.png)
-
-
+<p align="center">
+<figure>
+  <img width="100" height="100" src="https://github.com/danyvarghese/One-Shot-ILP/blob/master/datasets/1280_01.png">
+  <figcaption>Fig.1 Malayalam Alphabet 'Ah'</figcaption>
+</figure>
+</p>
 
 ## Reference
 
