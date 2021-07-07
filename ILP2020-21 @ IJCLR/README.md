@@ -1,1 +1,0 @@
-# one-shot-hypothesis-derivation
